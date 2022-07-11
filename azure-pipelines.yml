@@ -1,5 +1,8 @@
 trigger:
-- main
+  - main
+
+pr:
+  - main
 
 strategy:
   matrix:
