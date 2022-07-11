@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/hyperspace-pipelines/d074328-tools-org/_apis/build/status/gochax.ado-pipelines-java?branchName=main)](https://dev.azure.com/hyperspace-pipelines/d074328-tools-org/_build/latest?definitionId=2638&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
